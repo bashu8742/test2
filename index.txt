@@ -1,2 +1,4 @@
 a1
 a2 a3
+console.log('1');
+console.log('12');
